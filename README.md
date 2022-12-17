@@ -13,7 +13,7 @@ Neste repositório, implementamos a solução da equipe utilizada durante o [MAP
 
 # MyBudget
 
-Esse projeto foi uma proposta da aula de Sistemas digitais embarcados da universidade federal de santa catarina - UFSC
+Esse projeto foi uma proposta da LIA- Liga de inteligencia Artificial da universidade federal de santa catarina - UFSC
 
 ## 🔧 Funções
 
