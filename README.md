@@ -2,7 +2,7 @@
 
 O LI(A)RA é um projeto de alunos e professores da Universidade Federal de Santa Catarina (UFSC) conduzido pela Liga de Inteligência Artificial (LIA) com o objetivo de estudar e implementar tecnologias multiagentes.
 
-![image](https://user-images.githubusercontent.com/93664169/208255143-ed7ddb7e-1d36-4082-81cf-5d59d7ac057b.png)
+![image](https://user-images.githubusercontent.com/93664169/208255381-f321aa80-5343-432c-837c-d5758e029e70.png)
 
 
 Neste repositório, implementamos a solução da equipe utilizada durante o [MAPC 2022](https://multiagentcontest.org/). Foi o primeiro ano em que nossa equipe participou do Multi-Agent Programming Contest e terminamos em 4º lugar.
